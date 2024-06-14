@@ -13,4 +13,4 @@ Here are the guidelines for translating.
 - Please submit your file as a .sbv file.
 
 ## Submission
-If you're looking to submit the file, check issue #2.
+If you're looking to submit the translated subtitles, you can check issue thread [#2](https://github.com/TYX8926/W98D-Translations/issues/2).
