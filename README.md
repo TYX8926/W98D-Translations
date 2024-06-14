@@ -8,6 +8,9 @@ If you would like to make contributions by translating the subtitle files to a l
 Here are the guidelines for translating.
 
 - You'll need to be fluent in the language you're translating for obvious reasons.
-- Don't overexaggerate the dialogues; just follow along the original dialogues.
-- You may use any translation tools or use it as the base if you find that easier, and then work your way correcting it. Please do not, however, submit an auto-translated file.
+- Don't overexaggerate the dialogues; just follow along the original.
+- You may use any translation tools or use it as the base if it helps you, and then work your way correcting it. Please do not submit an auto-translated file.
 - Please submit your file as a .sbv file.
+
+## Submission
+If you're looking to submit the file, check issue #2.
